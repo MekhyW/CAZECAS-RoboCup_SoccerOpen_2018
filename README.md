@@ -1,5 +1,5 @@
 # CAZECAS - Robocup Soccer Open 2018
-###### This is a collaboration with Mackenzie high school, which invited me to participate in the development of two junior soccer robots to participate in Robocup 2018 Montreal, Canada.
+###### This is a collaboration with Mackenzie Presbyterian High School, which invited me to participate in the development of two junior soccer robots to participate in Robocup 2018 Montreal, Canada.
 
 ![Alpha&Beta](photo_2020-02-24_12-11-21.jpg)
 
