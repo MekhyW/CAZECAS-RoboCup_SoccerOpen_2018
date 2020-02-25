@@ -3,7 +3,9 @@
 
 ![Alpha&Beta](photo_2020-02-24_12-11-21.jpg)
 
-## Junior Soccer League
+<img src="mackenzie-logo-0.png" alt="mackenzie" style="zoom:50%;" />
+
+## Junior Soccer Preface
 
 " In the RoboCupJunior soccer challenge, teams of young engineers design, build, and program two fully autonomous mobile robots to compete against another team in matches. The robots must detect a ball and score into a color-coded goal on a special field that resembles a human soccer field. 
 
@@ -39,7 +41,7 @@ Both the attacking and defender robots contain the same set of components, which
 
 ![RoboCupJr](oie_transparent-5.png)
 
-<img src="mackenzie-logo-0.png" alt="mackenzie" style="zoom:50%;" />
+
 
 ## Where to Find Me:
 
