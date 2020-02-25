@@ -37,7 +37,8 @@ Both the attacking and defender robots contain the same set of components, which
 9. 1x HC-SR04 ultrassonic rangefinder sensor
 10. 1x Digital magnetometer sensor
 11. 1x Battery level measuring/displaying circuit
-12. 1x 12V LiPo battery (not seen in picture)
+12. 1x Digital button
+13. 1x 12V LiPo battery (not seen in picture)
 
 ![RoboCupJr](oie_transparent-5.png)
 
