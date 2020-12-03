@@ -44,11 +44,3 @@ Both the attacking and defender robots contain the same set of components, which
 
 
 
-## Where to Find Me:
-
-* Email: felipe_catapano@yahoo.com.br
-* [Telegram Contact 🔵](https://t.me/mekhyw)
-* [Twitter Page 🐦](https://twitter.com/MekhyW)
-
-
-
